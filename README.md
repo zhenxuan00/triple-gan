@@ -1,7 +1,7 @@
-# Triple Generative Adversarial Nets
+# Triple Generative Adversarial Nets (Triple-GAN)
 ## [Chongxuan Li](https://github.com/zhenxuan00), Kun Xu, Jun Zhu and Bo Zhang
 
-Code for reproducing most of the results in the [paper](https://arxiv.org/abs/1703.02291). A unified GAN model for classification and class-conditional generation in semi-supervised learning.
+Code for reproducing most of the results in the [paper](https://arxiv.org/abs/1703.02291). Triple-GAN: a unified GAN model for classification and class-conditional generation in semi-supervised learning.
 
 Warning: the code is still under development.
 
@@ -19,14 +19,14 @@ Thank the authors of these libs. We also thank the authors of [Improved-GAN](htt
 
 Triple-GAN can achieve excellent classification results on MNIST, SVHN and CIFAR10 datasets, see the [paper](https://arxiv.org/abs/1703.02291) for a comparison with previous state-of-the-art. See image generation examples as follows:
 
-### Comparing with GAN trained with [feature matching](https://arxiv.org/abs/1606.03498)
+### Comparing Triple-GAN(left) with GAN trained with [feature matching](https://arxiv.org/abs/1606.03498)(right)
 <img src="https://github.com/zhenxuan00/triple-gan/blob/master/images/mnist_fm.png" width="320">  <img src="https://github.com/zhenxuan00/triple-gan/blob/master/images/mnist_random.png" width="320">
 
 ### Generating images in four specific classes (airplane, automobile, bird, hourse)
 <img src="https://github.com/zhenxuan00/triple-gan/blob/master/images/class-0.png" width="320">  <img src="https://github.com/zhenxuan00/triple-gan/blob/master/images/class-1.png" width="320">
 <img src="https://github.com/zhenxuan00/triple-gan/blob/master/images/class-2.png" width="320">  <img src="https://github.com/zhenxuan00/triple-gan/blob/master/images/class-7.png" width="320">
 
-### Disentangle styles from classes
+### Disentangle styles from classes (left: data, right: Triple-GAN)
 <img src="https://github.com/zhenxuan00/triple-gan/blob/master/images/svhn_data.png" width="320">  <img src="https://github.com/zhenxuan00/triple-gan/blob/master/images/svhn_share_z.png" width="320">
 
 ### Class-conditional linear interpolation on latent space
