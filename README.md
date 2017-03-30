@@ -15,7 +15,7 @@ Warning: the code is still under development.
 
 Thank the authors of these libs. We also thank the authors of [Improved-GAN](https://github.com/openai/improved-gan) and [Temporal Ensemble](https://github.com/smlaine2/tempens) for providing their code. Our code is widely adapted from their repositories.
 
-## results
+## Results
 
 Triple-GAN can achieve excellent classification results on MNIST, SVHN and CIFAR10 datasets, see the [paper](https://arxiv.org/abs/1703.02291) for a comparison with previous state-of-the-art. See image generation examples as follows:
 
