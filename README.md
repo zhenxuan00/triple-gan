@@ -26,7 +26,7 @@ Triple-GAN can achieve excellent classification results on MNIST, SVHN and CIFAR
 <img src="https://github.com/zhenxuan00/triple-gan/blob/master/images/class-0.png" width="320">  <img src="https://github.com/zhenxuan00/triple-gan/blob/master/images/class-1.png" width="320">
 <img src="https://github.com/zhenxuan00/triple-gan/blob/master/images/class-2.png" width="320">  <img src="https://github.com/zhenxuan00/triple-gan/blob/master/images/class-7.png" width="320">
 
-### Disentangle styles from classes (left: data, right: Triple-GAN)
+### Disentangling styles from classes (left: data, right: Triple-GAN)
 <img src="https://github.com/zhenxuan00/triple-gan/blob/master/images/svhn_data.png" width="320">  <img src="https://github.com/zhenxuan00/triple-gan/blob/master/images/svhn_share_z.png" width="320">
 
 ### Class-conditional linear interpolation on latent space
