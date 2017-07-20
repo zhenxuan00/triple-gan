@@ -10,7 +10,7 @@ Warning: the code is still under development.
 > Numpy
 > Scipy
 > [Theano](https://github.com/Theano/Theano)
-> [Lasagne](https://github.com/Lasagne/Lasagne)
+> [Lasagne](https://github.com/Lasagne/Lasagne)(version 0.2.dev1)
 > [Parmesan](https://github.com/casperkaae/parmesan)
 
 Thank the authors of these libs. We also thank the authors of [Improved-GAN](https://github.com/openai/improved-gan) and [Temporal Ensemble](https://github.com/smlaine2/tempens) for providing their code. Our code is widely adapted from their repositories.
