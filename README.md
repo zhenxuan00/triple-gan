@@ -17,12 +17,12 @@ Thank the authors of these libs. We also thank the authors of [Improved-GAN](htt
 
 ## Results
 
-Triple-GAN can achieve excellent classification results on MNIST, SVHN and CIFAR10 datasets, see the [paper](https://arxiv.org/abs/1703.02291) for a comparison with previous state-of-the-art. See generated images as follows:
+Triple-GAN can achieve excellent classification results on MNIST, SVHN and CIFAR10 datasets, see the [paper](https://arxiv.org/abs/1703.02291) for a comparison with the previous state-of-the-art. See generated images as follows:
 
 ### Comparing Triple-GAN (right) with GAN trained with [feature matching](https://arxiv.org/abs/1606.03498) (left)
 <img src="https://github.com/zhenxuan00/triple-gan/blob/master/images/mnist_fm.png" width="320">  <img src="https://github.com/zhenxuan00/triple-gan/blob/master/images/mnist_random.png" width="320">
 
-### Generating images in four specific classes (airplane, automobile, bird, hourse)
+### Generating images in four specific classes (airplane, automobile, bird, horse)
 <img src="https://github.com/zhenxuan00/triple-gan/blob/master/images/class-0.png" width="320">  <img src="https://github.com/zhenxuan00/triple-gan/blob/master/images/class-1.png" width="320">
 <img src="https://github.com/zhenxuan00/triple-gan/blob/master/images/class-2.png" width="320">  <img src="https://github.com/zhenxuan00/triple-gan/blob/master/images/class-7.png" width="320">
 
