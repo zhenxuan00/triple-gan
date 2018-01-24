@@ -5,15 +5,7 @@ Code for reproducing most of the results in the [paper](https://arxiv.org/abs/17
 
 Warning: the code is still under development.
 
-## Some libs we used in our experiments
-> Python
-> Numpy
-> Scipy
-> [Theano](https://github.com/Theano/Theano)
-> [Lasagne](https://github.com/Lasagne/Lasagne)(version 0.2.dev1)
-> [Parmesan](https://github.com/casperkaae/parmesan)
-
-Thank the authors of these libs. We also thank the authors of [Improved-GAN](https://github.com/openai/improved-gan) and [Temporal Ensemble](https://github.com/smlaine2/tempens) for providing their code. Our code is widely adapted from their repositories.
+## Envoronment settings and libs we used in our experiments
 
 This project is tested under the following environment setting.
 - OS: Ubuntu 16.04.3
@@ -23,6 +15,15 @@ This project is tested under the following environment setting.
 - Theano: 0.9.0.dev-c697eeab84e5b8a74908da654b66ec9eca4f1291
 - Lasagne: 0.2.dev1
 - Parmesan: 0.1.dev1
+
+> Python
+> Numpy
+> Scipy
+> [Theano](https://github.com/Theano/Theano)
+> [Lasagne](https://github.com/Lasagne/Lasagne)(version 0.2.dev1)
+> [Parmesan](https://github.com/casperkaae/parmesan)
+
+Thank the authors of these libs. We also thank the authors of [Improved-GAN](https://github.com/openai/improved-gan) and [Temporal Ensemble](https://github.com/smlaine2/tempens) for providing their code. Our code is widely adapted from their repositories.
 
 ## Results
 
