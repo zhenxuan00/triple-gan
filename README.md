@@ -16,19 +16,13 @@ Warning: the code is still under development.
 Thank the authors of these libs. We also thank the authors of [Improved-GAN](https://github.com/openai/improved-gan) and [Temporal Ensemble](https://github.com/smlaine2/tempens) for providing their code. Our code is widely adapted from their repositories.
 
 This project is tested under the following environment setting.
-OS: Ubuntu 16.04.3
-
-GPU: Geforce 1080 Ti or Titan X(Pascal or Maxwell)
-
-Cuda: 8.0, Cudnn: v5.1 or v7.03
-
-Python: 2.7.14(setup with Miniconda2)
-
-Theano: 0.9.0.dev-c697eeab84e5b8a74908da654b66ec9eca4f1291
-
-Lasagne: 0.2.dev1
-
-Parmesan: 0.1.dev1
+- OS: Ubuntu 16.04.3
+- GPU: Geforce 1080 Ti or Titan X(Pascal or Maxwell)
+- Cuda: 8.0, Cudnn: v5.1 or v7.03
+- Python: 2.7.14(setup with Miniconda2)
+- Theano: 0.9.0.dev-c697eeab84e5b8a74908da654b66ec9eca4f1291
+- Lasagne: 0.2.dev1
+- Parmesan: 0.1.dev1
 
 ## Results
 
