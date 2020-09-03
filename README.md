@@ -5,6 +5,10 @@ Code for reproducing most of the results in the [paper](https://arxiv.org/abs/17
 
 Warning: the code is still under development.
 
+
+We propose Triple-GAN-V2 built upon mean teacher classifier and projection discriminator with spectral norm and implement Triple-GAN in Pytorch. See the source code at https://github.com/taufikxu/Triple-GAN
+
+
 ## Envoronment settings and libs we used in our experiments
 
 This project is tested under the following environment setting.
